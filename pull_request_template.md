@@ -1,8 +1,17 @@
 ## What and why
 
-<!-- One or two sentences. Link the Linear issue, e.g. STA-123 -->
+<!-- One or two sentences. -->
 
-Linear: STA-
+## Linear
+
+<!--
+Partial work:  Part of STA-123   links the issue, does not close it
+Last PR:       Closes STA-123    moves the issue to Done on merge
+Do not put the issue ID in the PR title or the branch name,
+otherwise Linear closes the issue on merge.
+-->
+
+Part of STA-
 
 ## Type of change
 
